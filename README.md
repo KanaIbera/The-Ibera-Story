@@ -1,6 +1,6 @@
 # The-Ibera-Story
 Member
-1.กฤศ์วณัฎฐ์ เอมอุทัย 1815210248 Sec.3
+1.กฤศ์วณัฎฐ์ เอมอุทัย Kitvanat Emuthai 1815210248 Sec.3
 
 Key Controller 
 WASD เดินปกติ
